@@ -1,0 +1,6 @@
+* SPICE3 file created from pmos50nm.ext - technology: sky130A
+
+X0 a_596_0# gate a_n698_0# w_n1098_n400# sky130_fd_pr__pfet_01v8 ad=22.0248 pd=19.02 as=21.8253 ps=18.92 w=3.99 l=1
+C0 source VSUBS 2.47514f **FLOATING
+C1 vdd VSUBS 2.4743f **FLOATING
+C2 w_n1098_n400# VSUBS 15.3792f **FLOATING
