@@ -1,1 +1,1 @@
-# CMOSinverter130nm-analysis
+# CMOSinverter50nm-analysis
