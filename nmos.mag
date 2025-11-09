@@ -1,0 +1,25 @@
+magic
+tech sky130A
+timestamp 1757864104
+<< nmos >>
+rect 101 -50 200 399
+<< ndiff >>
+rect -250 -50 101 399
+rect 200 -50 550 399
+rect 348 -201 448 -50
+<< poly >>
+rect 101 399 200 451
+rect 101 -99 200 -50
+<< metal1 >>
+rect -249 552 549 701
+rect -151 538 -50 552
+rect -151 151 -53 538
+rect 350 -151 448 200
+rect -249 -298 545 -151
+<< labels >>
+rlabel metal1 538 -227 538 -227 1 gnd
+rlabel metal1 440 -111 440 -111 1 source
+rlabel poly 151 448 151 448 1 gate
+rlabel metal1 -77 469 -77 469 1 drain
+rlabel metal1 521 634 521 634 1 vdd
+<< end >>
