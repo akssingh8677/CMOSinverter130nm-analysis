@@ -1,0 +1,38 @@
+magic
+tech sky130A
+timestamp 1757739713
+<< nwell >>
+rect -150 0 150 250
+<< nmos >>
+rect -15 -170 0 -40
+<< pmos >>
+rect -15 45 0 205
+<< ndiff >>
+rect -60 -170 -15 -40
+rect 0 -170 45 -40
+<< pdiff >>
+rect -60 195 -15 205
+rect -60 55 -50 195
+rect -30 55 -15 195
+rect -60 45 -15 55
+rect 0 195 45 205
+rect 0 55 15 195
+rect 35 55 45 195
+rect 0 45 45 55
+<< pdiffc >>
+rect -50 55 -30 195
+rect 15 55 35 195
+<< poly >>
+rect -15 205 0 270
+rect -15 -40 0 45
+rect -15 -210 0 -170
+<< locali >>
+rect -60 195 -20 205
+rect -60 55 -50 195
+rect -30 55 -20 195
+rect -60 45 -20 55
+rect 5 195 45 205
+rect 5 55 15 195
+rect 35 55 45 195
+rect 5 45 45 55
+<< end >>
